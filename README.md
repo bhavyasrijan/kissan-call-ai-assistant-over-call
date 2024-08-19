@@ -1,1 +1,1 @@
-# kissan-call-ai-assistant-over-call
+# KissanCall is a voice call-based AI assistant designed to empower farmers by delivering crucial information on agricultural subsidies, weather updates, and more. By addressing the major challenges faced by farmers, KissanCall aims to boost their productivity and improve access to essential resources.
